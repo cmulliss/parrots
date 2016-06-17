@@ -1,0 +1,13 @@
+index.html
+behavioural_problems
+essential_parrot_info
+training_your_bird
+gregs_parrot_books
+articles_and_information
+talks_and_courses
+about_greg_glendell
+contact_consultation
+site_disclaimer
+data_protection
+
+plus sidebars and photos
